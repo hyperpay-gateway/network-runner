@@ -59,7 +59,7 @@ The guides behind this repository are written for the moment before a transfer l
 
 </div>
 
-## What this repository is
+## What this repository is?
 
 This repository is one of the wallet's public repositories and this page is its front door: it carries the download block and sends a reader into the guides. The written guidance for the wallet lives in [hyperpay-wallet-guide](https://github.com/hyperpay-gateway/hyperpay-wallet-guide).
 
